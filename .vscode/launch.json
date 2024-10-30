@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "C++_574f62e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bhavshah/Desktop/C++/loops",
+      "program": "/Users/bhavshah/Desktop/C++/loops/build/Debug/outDebug"
+    }
+  ]
+}
